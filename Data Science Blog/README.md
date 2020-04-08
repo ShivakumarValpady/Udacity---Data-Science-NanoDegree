@@ -15,13 +15,13 @@ This is the forst project of the Data Science Nandegree Program where in I have 
 
 ## Summary of my Findings:
 1) The average price of Airbnbs in Boston is higher than that of the Seattle by almost 45$.
-2) We see that for both Seattle and Boston Dataset, the location of the Airbnb matters the most. For some of the selected locations, the effects on the prices are high.
+2) We see that for both Seattle and Boston Dataset, the location of the Airbnb matters the most. For some of the selected locations, the    effects on the prices are high.
 
-Apart from the Locations, the other top two factors which increases the prices are no. of bedrooms and bathrooms. While, the features shared room and private rooms are least opted by customers and the effect these have a negative impact on the prices.
+   Apart from the Locations, the other top two factors which increases the prices are no. of bedrooms and bathrooms. While, the features    shared room and private rooms are least opted by customers and the effect these have a negative impact on the prices.
 
-One more trend we see that, even though number of Airbnb rooms are more in some places in both Bostona nnd Seattle, the effect they have on prices are not high. This suggests that, higher number of rooms are present in an average priced localities.
+   One more trend we see that, even though number of Airbnb rooms are more in some places in both Bostona nnd Seattle, the effect they       have on prices are not high. This suggests that, higher number of rooms are present in an average priced localities.
 
-3) For both the cities, we see that the prices increase when they have TV, Air Conditioning, Kitchen and the rooms are family Friendly. The other factors do not contribute much to the increse of price of Airbnbs.
+3) For both the cities, we see that the prices increase when they have TV, Air Conditioning, Kitchen and the rooms are family Friendly.    The other factors do not contribute much to the increse of price of Airbnbs.
 
 ## Acknowledgement
 The licensing for the AirBnB data can be found on the Kaggle site. I would like to thank the amazing professors, teachers and mentors working with Udacity, who are supporting me on this journey of DSND.
