@@ -1,7 +1,7 @@
 # Airbnb Analysis for Seattle and Boston Cities 
 
 ## Motivation
-This is the forst project of the Data Science Nandegree Program where in I have chosen 2 Airbnb Datasets of Seattle and Boston cities and made analysis of the datasets and answer some questions using the data available. A blog was published on the medium with link :
+This is the forst project of the Data Science Nandegree Program where in I have chosen 2 Airbnb Datasets of Seattle and Boston cities and made analysis of the datasets and answer some questions using the data available. A blog was published on the medium with link : https://medium.com/@shivakumar199625/seattle-and-boston-airbnb-general-overview-c0cb6ea284af
 
 ## Dependencies: 
 - Python 3.6
