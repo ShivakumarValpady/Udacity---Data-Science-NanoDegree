@@ -1,0 +1,5 @@
+Copyright 2020 Shivakumar Valpady
+
+Since it an educational build its free to use for anyone interested.
+There is no guarantee for updates or fixes.
+Use of this package is responsibility of user.
