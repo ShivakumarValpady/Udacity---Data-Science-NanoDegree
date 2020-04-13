@@ -15,12 +15,12 @@ matrix_two: numpy(array) representing second matrix inputed by user.
 
 ### Methods
 
-####### add_matrices(self): 
+###### add_matrices(self): 
 Function to add two matrices. 
 Args: None Returns: a list or error massage. 
 Note: Controls also matrix shapes for math accuracy.
 
-####### subtract_matrices(self): 
+###### subtract_matrices(self): 
 Function to subtract two matrices. 
 Args: None Returns: a list or error massage. 
 Note: Controls also matrix shapes for math accuracy.
