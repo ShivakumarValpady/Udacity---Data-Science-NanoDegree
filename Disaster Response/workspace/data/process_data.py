@@ -44,10 +44,10 @@ def clean_data(df):
     print("Number of duplicated rows: {} out of {} samples" .format(df.duplicated().sum(), df.shape[0]))
     
     #COnverting categorical values for better prediction.
-    print(df.genre.unique())
+    #print(df.genre.unique())
     
-    df = pd.concat([df, pd.get_dummies(df.genre)], axis=1)
-    df = df.drop(['genre', 'social'], axis=1)
+    #df = pd.concat([df, pd.get_dummies(df.genre)], axis=1)
+    #df = df.drop(['genre', 'social'], axis=1)
     
     return df
 
