@@ -10,5 +10,5 @@ The purpose of this project is to make a web app using a both an ETL and Machine
   
 2. Run the following command in the app's directory to run your web app. python run.py
 
-3. Go to http://0.0.0.0:3001/
+3. Go to https://view6914b2f4-3001.udacity-student-workspaces.com/ to view the web app.
 
